@@ -1,0 +1,14 @@
+{
+    "packages": {
+        "icilalune/contenta_cms": {
+            "1.0.0": { 
+                "name": "icilalune/contenta_cms",
+                "version": "1.0.0",
+                "dist": {
+                  "url": "https://github.com/icilalune-nithi/contenta_jsonapi/archive/refs/heads/8.x-3.x.zip",
+                  "type": "zip"
+                }
+            }
+        }
+    }
+}
